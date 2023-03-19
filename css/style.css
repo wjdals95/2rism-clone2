@@ -543,6 +543,7 @@ img {
   gap: 16px;
   background: #ffffff;
   border-radius: 12px;
+  width: 15vw;
 }
 
 .input-content {
